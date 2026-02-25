@@ -1,9 +1,14 @@
 ---
-title: Jeroen van Wissen
+title: jeroenvanwissen.github.io
 layout: home
-permalink: /
 ---
 
-Welcome to `jeroenvanwissen.github.io`
+![;//](/images/logo.png)
+
+Hi there!
+
+I'm Jeroen, Full Stack developer from the Netherlands.
+
+[GitHub](https://github.com/jeroenvanwissen) - [Bsky.app](https://bsky.app/profile/jeroenvanwissen.nl) - [Mastodon](https://mastodon.social/@jeroenvanwissen) - [LinkedIn](https://www.linkedin.com/in/jeroenvanwissen/)
 
 

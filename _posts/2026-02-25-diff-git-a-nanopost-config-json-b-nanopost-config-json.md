@@ -4,6 +4,7 @@ title: diff --git a/.nanopost/config.json b/.nanopost/config.json
 date: 2026-02-25
 ---
 
+```diff
 diff --git a/.nanopost/config.json b/.nanopost/config.json
 index f894b59..6177e9a 100644
 --- a/.nanopost/config.json
@@ -16,3 +17,4 @@ index f894b59..6177e9a 100644
    "filename": {
      "format": "date-slug",
      "dateFormat": "yyyy-MM-dd",
+```

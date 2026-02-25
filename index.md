@@ -1,5 +1,5 @@
 ---
-title: jeroenvanwissen.github.io
+title:
 layout: home
 ---
 

@@ -1,4 +1,5 @@
-.badges img {
-    display: inline-block;
-    margin: 2px;
+.badges {
+  display: flex;
+  flex-wrap: wrap;
+  gap: 4px;
 }

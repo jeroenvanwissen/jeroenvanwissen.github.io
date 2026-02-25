@@ -4,3 +4,7 @@ remote_theme: jeroenvanwissen/pastel-jekyll-theme
 
 style_light: mocha
 style_dark: mocha
+
+title: ;// jeroenvanwissen
+description:
+url: https://jeroenvanwissen.github.io

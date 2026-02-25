@@ -4,11 +4,12 @@
   "filename": {
     "format": "date-slug",
     "dateFormat": "yyyy-MM-dd",
-    "maxSlugLength": 60
+    "maxSlugLength": 40
   },
   "frontmatter": {
+    "schema": ["title", "date", "layout"],
     "defaults": {
-      "status": "note"
+      "layout": "post"
     }
   },
   "plugins": []

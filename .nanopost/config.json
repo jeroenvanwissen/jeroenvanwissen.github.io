@@ -1,0 +1,15 @@
+{
+  "contentDir": "_posts",
+  "editor": "Jeroen van Wissen",
+  "filename": {
+    "format": "date-slug",
+    "dateFormat": "yyyy-MM-dd",
+    "maxSlugLength": 60
+  },
+  "frontmatter": {
+    "defaults": {
+      "status": "note"
+    }
+  },
+  "plugins": []
+}

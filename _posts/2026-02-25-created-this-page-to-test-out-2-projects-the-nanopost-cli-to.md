@@ -1,6 +1,6 @@
 ---
 status: note
-title: Created this page to test out 2 projects...
+title: Created this page to test out 2 projects....
 date: 2026-02-25
 ---
 

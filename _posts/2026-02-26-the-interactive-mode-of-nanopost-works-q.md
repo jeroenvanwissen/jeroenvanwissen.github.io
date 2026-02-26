@@ -2,7 +2,7 @@
 status: note
 layout: post
 title: The interactive mode of nanopost works quite nice
-date: 2026-02-26
+date: 2026-02-26 01:13:18
 tags:
   - this is a tag
   - another tag

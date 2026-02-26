@@ -2,7 +2,7 @@
 status: note
 layout: post
 title: But you can use the configured editor to edit the body
-date: 2026-02-26 01:32:18
+date: 2026-02-26 01:32:18 +0100
 ---
 
 But you can use the configured editor to edit the body by adding the --edit option.

@@ -1,6 +1,7 @@
 plugins:
   - jekyll-remote-theme
   - jekyll-sitemap
+  - jekyll-feed
 remote_theme: jeroenvanwissen/pastel-jekyll-theme
 
 style_light: mocha

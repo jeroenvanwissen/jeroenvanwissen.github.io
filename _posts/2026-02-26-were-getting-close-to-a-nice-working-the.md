@@ -1,5 +1,6 @@
 ---
 status: note
+layout: post
 title: Were getting close to a nice working theme and implementation.
 date: 2026-02-26 01:01:39
 ---

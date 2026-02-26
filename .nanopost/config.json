@@ -1,9 +1,9 @@
 {
   "contentDir": "_posts",
+  "dateFormat": "yyyy-MM-dd HH:mm:ss xx",
   "editor": "hx",
   "filename": {
     "format": "date-slug",
-    "dateFormat": "yyyy-MM-dd",
     "maxSlugLength": 40
   },
   "frontmatter": {

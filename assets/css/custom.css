@@ -13,25 +13,15 @@
   border-radius: 0;
 }
 
+.badges a,
+.badges img {
+    border: 0;
+}
+
 main p {
   font-style: italic;
 }
 
 footer {
   border-top: 0;
-}
-
-footer p.center {
-  display: flex;
-  flex-wrap: wrap;
-  gap: 4px;
-}
-
-footer p.center img {
-  margin: 0;
-  border-radius: 0;
-}
-
-footer p.center a {
-  border: 0;
 }

@@ -8,3 +8,14 @@
   margin: 0;
   border-radius: 0;
 }
+
+footer p.center {
+  display: flex;
+  flex-wrap: wrap;
+  gap: 4px;
+}
+
+footer p.center img {
+  margin: 0;
+  border-radius: 0;
+}

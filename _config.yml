@@ -7,7 +7,7 @@ remote_theme: jeroenvanwissen/pastel-jekyll-theme
 style_light: mocha
 style_dark: mocha
 
-title: /home
+title: Jeroen van Wissen
 description:
 url: https://jeroenvanwissen.github.io
 timezone: Europe/Amsterdam
